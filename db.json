@@ -1,0 +1,148 @@
+{
+  "ping": [
+    {
+      "result": "pong",
+      "id": "9"
+    }
+  ],
+  "blogpost": [
+    {
+      "id": "1",
+      "title": "json-serve",
+      "author": "afk"
+    },
+    {
+      "id": "2",
+      "title": "james",
+      "author": "manu"
+    },
+    {
+      "id": "3",
+      "title": "LIC",
+      "author": "Agent"
+    },
+    {
+      "id": "4",
+      "title": "king ping",
+      "author": "konga"
+    },
+    {
+      "id": "6",
+      "title": "Raj Comics",
+      "author": "Sanjay Gupta"
+    },
+    {
+      "id": "7",
+      "title": "Matrix",
+      "author": "Neo"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": 1
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "afk",
+      "id": "289d"
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "name": "Pramod",
+      "age": 24,
+      "rollnumber": 1338,
+      "emails": [
+        "p@gmail.com",
+        "b@ada.com"
+      ],
+      "address": {
+        "city": "new delhi",
+        "pincode": 11234,
+        "address2": [
+          {
+            "place": "dasdad"
+          },
+          {
+            "place": "dasdad"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "name": "Afk",
+      "age": 28,
+      "rollnumber": 1339,
+      "emails": [
+        "a@gmail.com",
+        "c@ada.com"
+      ],
+      "address": {
+        "city": "mumbai",
+        "pincode": 11235,
+        "address2": [
+          {
+            "place": "bdl"
+          },
+          {
+            "place": "bdl"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "name": "John",
+      "age": 25,
+      "rollnumber": 1345,
+      "emails": [
+        "j@gmail.com",
+        "k@ada.com"
+      ],
+      "address": {
+        "city": "new delhi",
+        "pincode": 11234,
+        "address2": [
+          {
+            "place": "dasdad"
+          },
+          {
+            "place": "dasdad"
+          }
+        ]
+      }
+    }
+  ],
+  "persons": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "age": 26,
+      "id": "1",
+      "address": "Chicago,USA",
+      "phoneNumbers": "123-456-78910"
+    }
+  ]
+}
